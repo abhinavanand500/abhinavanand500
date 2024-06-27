@@ -44,23 +44,8 @@
 - [URL SHORTNER - A Project that makes your long url into Short URL](https://www.youtube.com/watch?v=6VaF5Sr9ppg)
 ---
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Bill Management System](http://bloggify.pythonanywhere.com/blog/bill-system)
-- [My CodeVita Coding Round Experience](http://bloggify.pythonanywhere.com/blog/codevita-exam)
-- [Starting React](http://bloggify.pythonanywhere.com/blog/react-start)
-- [How to get into Competitive Programming](http://bloggify.pythonanywhere.com/blog/competitive-programming)
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](http://bloggify.pythonanywhere.com/)
-
----
-
-
-[website]: https://aarohan.vercel.app/
-[course]: http://vsCodeHero.com
+[website]: [https://aarohan.vercel.app/](https://abhinavanand.vercel.app/)
 [twitter]: https://twitter.com/abhinavanand500
 [youtube]: https://www.youtube.com/channel/UCAi4jLK-9GCjYOT6qJMxKrQ
 [instagram]: https://www.instagram.com/abhinav_anand_/
