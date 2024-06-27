@@ -9,7 +9,7 @@
 -  ⚡    Fun fact: I love to draw and play guitar / drums.
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://abhinavanand.vercel.app/" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -45,7 +45,7 @@
 ---
 
 
-[website]: [https://aarohan.vercel.app/](https://abhinavanand.vercel.app/)
+[website]: [https://abhinavanand.vercel.app/](https://abhinavanand.vercel.app/)
 [twitter]: https://twitter.com/abhinavanand500
 [youtube]: https://www.youtube.com/channel/UCAi4jLK-9GCjYOT6qJMxKrQ
 [instagram]: https://www.instagram.com/abhinav_anand_/
