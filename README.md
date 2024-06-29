@@ -5,7 +5,7 @@
 -  🔭   I am building Projects in React 🚀 
 -  👯   I’m looking for a teammate who can make cool projects wih me.
 -  🥅   2024 Goals: Contribute more to Open Source projects.
--  
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
