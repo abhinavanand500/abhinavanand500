@@ -43,7 +43,7 @@
 ---
 
 
-[website]: [https://abhinavanand.vercel.app/](https://abhinavanand.vercel.app/)
+[website]: https://abhinavanand.vercel.app/
 [twitter]: https://twitter.com/abhinavanand500
 [youtube]: https://www.youtube.com/channel/UCAi4jLK-9GCjYOT6qJMxKrQ
 [instagram]: https://www.instagram.com/abhinav_anand_/
